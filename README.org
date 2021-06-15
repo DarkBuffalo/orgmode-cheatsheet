@@ -1,8 +1,8 @@
-* Getting yourself organized with Orgmode
+* S'organiser avec Orgmode
 
-** Concept: Headlines - Outline mode
+** Headlines - Outline mode
 
-Every headline starts with one or more * 
+Chaque titre commence par un ou plusieurs *
 
 Visibility of the headline hierarchy:
 - Local visibility cycling with =<TAB>=
